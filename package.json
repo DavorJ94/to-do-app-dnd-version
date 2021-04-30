@@ -1,5 +1,5 @@
 {
-  "homepage": "https://davorj94.github.io/to-do-app-dnd-version",
+  "homepage": "https://davorj94.github.io/to-do-app-dnd-version/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
